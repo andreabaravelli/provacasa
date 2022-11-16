@@ -23,7 +23,7 @@ namespace provagit
             {
 
                 length = 0.0000000000000000000000000000000000001;
-
+                // sei un sodomita come spero fosse guido guinizzelli
             }
 
 
